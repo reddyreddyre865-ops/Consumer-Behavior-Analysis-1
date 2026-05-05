@@ -30,7 +30,7 @@ The analysis is based on the **Consumer Behavior and Shopping Habits Dataset**.
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/reddyreddyre865-ops/Consumer-Behavior-Analysis-1.git
-    cd YOUR_REPO_NAME
+    cd https://github.com/reddyreddyre865-ops/Consumer-Behavior-Analysis-1.git
     ```
 2.  **Install Dependencies:**
     ```bash
